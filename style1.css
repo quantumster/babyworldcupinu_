@@ -1,0 +1,797 @@
+
+body{margin: 0px;
+    padding: 0px;}
+    #body1{
+        background-color: rgb(33, 23, 23);
+        width: 1550px;
+        height: 100px;
+    
+    }
+    #body2{
+        background-color: rgb(33, 23, 23);
+        width: 1550px;
+        height: 800px;
+    
+    }
+    .top{
+        position: absolute;
+        top: 25px;
+        left: 700px;
+        color: white;
+        font-family: 'Courier New', Courier, monospace;
+    }
+    .top1{
+        position: absolute;
+        top: 25px;
+        left: 1000px;
+        color: white;
+        font-family: 'Courier New', Courier, monospace;
+    }
+    .top2{
+        position: absolute;
+        top: 31px;
+        font-size: 13px;
+        left: 1150px;
+        color: white;
+        font-family: ''Courier New', Courier, monospace;
+    }
+    .top3{
+        position: absolute;
+        top: 31px;
+        font-size: 13px;
+        left: 1300px;
+        color: white;
+        font-family:'Courier New', Courier, monospace;
+    }
+    .top4{
+        position: absolute;
+        top: 31px;
+         font-size: 13px;
+        left: 1400px;
+        color: white;
+        font-family: 'Courier New', Courier, monospace;
+    }
+    
+    #championphoto{
+        height: 550px;
+        left: 105px;
+        position: relative;
+        top: 35px;
+        }
+#design{
+        height: 550px;
+        width: 650px;
+        left: 100px;
+        position: relative;
+        top: 35px;
+        opacity: 30%;
+}
+.top5{
+    position: absolute;
+    color: antiquewhite;
+    bottom: 300px;
+    font-size: 40px;
+    left: 730px;
+    font-family:'Courier New', Courier, monospace;
+}
+.top6{
+    position: absolute;
+    color: antiquewhite;
+    bottom: 200px;
+    font-size: 17px;
+    left: 730px;
+    font-family:'Courier New', Courier, monospace;
+}
+.top7{
+    position: absolute;
+    color: antiquewhite;
+    bottom: 150px;
+    font-size: 18px;
+    left: 730px;
+    font-family:'Courier New', Courier, monospace;
+}
+.btn-1{
+    font-family:'Courier New', Courier, monospace;
+    letter-spacing: 4px;
+    width: 150px;
+    height: 50px;
+    position: relative;
+    left:730px;
+    bottom: 100px;
+    background-color: rgb(240, 56, 87);
+    border-radius: 6px;
+    transition: ease-in-out 0.3s;
+}
+
+.btn-1:hover{
+    box-shadow: inset 150px 0 0 0 #ebebea;
+}
+.btn-2{
+   
+    letter-spacing: 4px;
+    width: 150px;
+    height: 50px;
+    position: relative;
+    left:540px;
+    bottom: 190px;
+    background-color:#ebebea;
+ 
+    border-radius: 6px;
+    transition: ease-in-out 0.3s;
+}
+
+.btn-2:hover{
+    box-shadow: inset 150px 0 0 0 rgb(240, 56, 87);
+    color: white;
+}
+
+.bt1{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 10px;
+}
+.btn-3{
+    font-family:'Courier New', Courier, monospace;
+    letter-spacing: 4px;
+    width: 150px;
+    height: 50px;
+    position: relative;
+    left:538px;
+    bottom: 190px;
+    color: white;
+    background-color: rgb(240, 56, 87);
+    border-radius: 6px;
+    transition: ease-in-out 0.3s;
+}
+
+.btn-3:hover{
+    box-shadow: inset 150px 0 0 0 #ebebea;
+    color: black;
+}
+
+.whitepic{
+    position: absolute;
+    height: 800px;
+    width: 500px;
+    left: 100px;
+}
+#body3{
+    background-color: rgb(33, 23, 23);
+    width: 1550px;
+    height: 1700px;
+
+}
+.h1{
+
+    position: absolute;
+    color: black;
+    font-weight: bold;
+    top: 1000px;
+    font-size: 25px;
+    left: 130px;
+    font-family:'Courier New', Courier, monospace;
+}
+.pic1{
+    position: absolute;
+    left: 140px;
+    top: 1090px;
+    height: 40px;
+    width: 40px;
+}
+.pic2{
+    position: absolute;
+    left: 140px;
+    top: 1190px;
+    height: 40px;
+    width: 40px;
+}
+.pic3{
+    position: absolute;
+    left: 140px;
+    top: 1290px;
+    height: 40px;
+    width: 40px;
+}
+.pic4{
+    position: absolute;
+    left: 140px;
+    top: 1390px;
+    height: 40px;
+    width: 40px;
+}
+.pic5{
+    position: absolute;
+    left: 140px;
+    top: 1490px;
+    height: 40px;
+    width: 40px;
+}
+.pic6{
+    position: absolute;
+    left: 140px;
+    top: 1590px;
+    height: 40px;
+    width: 40px;
+}
+.h1pos{
+
+    position:absolute;
+    color: black;
+    top: 1070px;
+    left: 200px;
+    font-size: 20px;
+    font-family:'Courier New', Courier, monospace;
+}
+.p1pos{
+
+    position:absolute;
+    color: black;
+    top: 1095px;
+    left: 200px;
+    font-size: 14px;
+    font-family:'Courier New', Courier, monospace;
+}
+.h2pos{
+
+    position:absolute;
+    color: black;
+    top: 1170px;
+    left: 200px;
+    font-size: 20px;
+    font-family:'Courier New', Courier, monospace;
+}
+.p2pos{
+
+    position:absolute;
+    color: black;
+    top: 1195px;
+    left: 200px;
+    font-size: 14px;
+    font-family:'Courier New', Courier, monospace;
+}
+.h3pos{
+
+    position:absolute;
+    color: black;
+    top: 1270px;
+    left: 200px;
+    font-size: 20px;
+    font-family:'Courier New', Courier, monospace;
+}
+.p3pos{
+
+    position:absolute;
+    color: black;
+    top: 1295px;
+    left: 200px;
+    font-size: 14px;
+    font-family:'Courier New', Courier, monospace;
+}
+.h4pos{
+
+    position:absolute;
+    color: black;
+    top: 1370px;
+    left: 200px;
+    font-size: 20px;
+    font-family:'Courier New', Courier, monospace;
+}
+.p4pos{
+
+    position:absolute;
+    color: black;
+    top: 1395px;
+    left: 200px;
+    font-size: 14px;
+    font-family:'Courier New', Courier, monospace;
+}
+.h5pos{
+
+    position:absolute;
+    color: black;
+    top: 1470px;
+    left: 200px;
+    font-size: 20px;
+    font-family:'Courier New', Courier, monospace;
+}
+.p5pos{
+
+    position:absolute;
+    color: black;
+    top: 1495px;
+    left: 200px;
+    font-size: 14px;
+    font-family:'Courier New', Courier, monospace;
+}
+.h6pos{
+
+    position:absolute;
+    color: black;
+    top: 1570px;
+    left: 200px;
+    font-size: 20px;
+    font-family:'Courier New', Courier, monospace;
+}
+.p6pos{
+
+    position:absolute;
+    color: black;
+    top: 1595px;
+    left: 200px;
+    font-size: 14px;
+    font-family:'Courier New', Courier, monospace;
+}
+.pht1{
+    position: absolute;
+    left: 600px;
+    height: 800px;
+    width: 500px;
+}
+
+.whtpic{
+    position: absolute;
+    height: 800px;
+    width: 400px;
+    left: 1100px;
+}
+
+.shirt{
+    position: absolute;
+    left: 1095px;
+    top: 952px;
+    width: 400px;
+    height: 800px;
+}
+#design1{
+    position:absolute;
+    height: 300px;
+    width: 275px;
+    top: 2105px;
+    left: 150px;
+    opacity: 40%;
+}
+#design2{
+    position: absolute;
+    height: 300px;
+    width: 275px;
+    top: 2105px;
+    left: 450px;
+    opacity: 40%
+}
+#design3{
+    position: absolute;
+    height: 300px;
+    width: 275px;
+    top: 2105px;
+    left: 750px;
+    opacity: 40%
+}
+#design4{
+    position: absolute;
+    height: 300px;
+    width: 275px;
+    top: 2105px;
+    left: 1050px;
+    opacity: 40%
+}
+
+.h7pos{
+
+    position:absolute;
+    color: White;
+    top: 2045px;
+    left: 170px;
+    font-size: 20px;
+    font-family:'Courier New', Courier, monospace;
+}
+.p7pos{
+
+    position:absolute;
+    color: White;
+    top: 2145px;
+    left: 170px;
+    font-size: 15px;
+    font-family:'Courier New', Courier, monospace;
+}
+.h8pos{
+
+    position:absolute;
+    color: White;
+    top: 2045px;
+    left: 470px;
+    font-size: 20px;
+    font-family:'Courier New', Courier, monospace;
+}
+.p8pos{
+
+    position:absolute;
+    color: White;
+    top: 2145px;
+    left: 470px;
+    font-size: 15px;
+    font-family:'Courier New', Courier, monospace;
+}
+.h9pos{
+
+    position:absolute;
+    color: White;
+    top: 2045px;
+    left: 770px;
+    font-size: 20px;
+    font-family:'Courier New', Courier, monospace;
+}
+.p9pos{
+
+    position:absolute;
+    color: White;
+    top: 2145px;
+    left: 770px;
+    font-size: 15px;
+    font-family:'Courier New', Courier, monospace;
+}
+.h10pos{
+
+    position:absolute;
+    color: White;
+    top: 2045px;
+    left: 1070px;
+    font-size: 20px;
+    font-family:'Courier New', Courier, monospace;
+}
+.p10pos{
+
+    position:absolute;
+    color: White;
+    top: 2145px;
+    left: 1070px;
+    font-size: 15px;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.pi1{
+    position: absolute;
+    top: 1957px;
+    height: 215px;
+    width: 215px;
+    right: 565px;
+}
+.pi2{
+    position: absolute;
+    top: 1957px;
+    height: 215px;
+    width: 215px;
+    right: 865px;
+}
+.pi3{
+    position: absolute;
+    top: 1957px;
+    height: 215px;
+    width: 215px;
+    right: 1165px;
+}
+
+.pi4{
+    position: absolute;
+    top: 1957px;
+    height: 215px;
+    width: 215px;
+    right: 265px;
+}
+.h11pos{
+
+    position:absolute;
+    color: White;
+    top: 2475px;
+    left: 320px;
+    font-size: 30px;
+    font-family:'Courier New', Courier, monospace;
+}
+.btn-4{
+    font-family:'Courier New', Courier, monospace;
+    letter-spacing: 4px;
+    width: 150px;
+    height: 50px;
+    position: relative;
+    color: white;
+    left:935px;
+    top: 1545px;
+    background-color: rgb(240, 56, 87);
+    border-radius: 6px;
+    transition: ease-in 0.3s;
+}
+
+.btn-4:hover{
+    box-shadow: inset 150px 0 0 0 #ebebea;
+    color: black;
+}
+.btn-5{
+    font-family:'Courier New', Courier, monospace;
+    letter-spacing: 4px;
+    width: 150px;
+    height: 50px;
+    position: relative;
+    left:938px;
+    top: 1545px;
+    background-color: #ebebea;
+    border-radius: 6px;
+    transition: ease-out 0.3s;
+}
+
+.btn-5:hover{
+    box-shadow: inset 150px 0 0 0 rgb(240, 56, 87);
+    color: white;
+}
+.pvppos{
+    position: absolute;
+    top: 55px;
+    left: 1300px;
+    color: white;
+    font-size: 20px;
+    font-family:'Courier New', Courier, monospace;
+
+}
+
+.conpos{
+    position: absolute;
+    top: 55px;
+    left: 1400px;
+    color: white;
+    font-size: 20px;
+    font-family:'Courier New', Courier, monospace;
+
+}
+
+.pink1{
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    top: 0px;
+    left: 1370px;
+}
+.pink2{
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    top: 0px;
+    left: 1240px;
+}
+#body4{
+    background-color: rgb(33, 23, 23);
+    width: 1550px;
+    height: 1700px;
+}
+
+.grey1{
+    position: absolute;
+    height: 400px;
+    width: 1400px;
+    top: 170px;
+    left: 70px;
+}
+.s1{
+    position: absolute;
+    top: 200px;
+    left: 650px;
+    color: white;
+    font-size: 30px;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.s2{
+    position: absolute;
+    top: 250px;
+    left: 650px;
+    color: white;
+    font-size: 20px;
+    font-family:'Courier New', Courier, monospace;
+}
+.globe{
+    height: 350px;
+    width: 350px;
+    position: absolute;
+    top: 190px;
+    left: 200px;
+}
+.btn-7{
+    font-family:'Courier New', Courier, monospace;
+    letter-spacing: 4px;
+    color: white;
+    width: 150px;
+    height: 50px;
+    position: relative;
+    left:635px;
+    top: 300px;
+    background-color: rgb(240, 56, 87);
+    border-radius: 6px;
+    transition: ease-in 0.3s;
+}
+
+.btn-7:hover{
+    box-shadow: inset 150px 0 0 0 #ebebea;
+    color: black;
+}
+.btn-8{
+    font-family:'Courier New', Courier, monospace;
+    letter-spacing: 4px;
+    width: 150px;
+    height: 50px;
+    position: relative;
+    left:638px;
+    top: 300px;
+    background-color: #ebebea;
+    border-radius: 6px;
+    transition: ease-out 0.3s;
+}
+
+.btn-8:hover{
+    box-shadow: inset 150px 0 0 0 rgb(240, 56, 87);
+    color: white;
+}
+.grey2{
+    position: absolute;
+    height: 700px;
+    width: 1000px;
+    top: 600px;
+    left: 70px;
+}
+
+.a1{
+    position:absolute;
+    top: 610px;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 20px;
+    color: grey;
+    left: 120px;
+}
+.a2{
+    position:absolute;
+    top: 610px;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 20px;
+    color: grey;
+    left: 250px;
+}
+.a3{
+    position:absolute;
+    top: 610px;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 20px;
+    color: grey;
+    left: 390px;
+}
+.a4{
+    position:absolute;
+    top: 610px;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 20px;
+    color: grey;
+    left: 500px;
+}
+.a1:hover{
+    
+    color: white;
+
+}
+.a2:hover{
+    
+    color: white;
+
+}
+.a3:hover{
+    
+    color: white;
+
+}
+.a4:hover{
+    
+    color: white;
+
+}
+.a1::selection{
+    color: white;
+}
+.a2::selection{
+    color: white;
+}
+.a3::selection{
+    color: white;
+}
+.a4::selection{
+    color: white;
+}
+
+.hr{
+    width: 890px;
+    top: 640px;
+    left: 120px;
+    position: absolute;
+    color: grey;
+}
+.board1{
+    position: absolute;
+    height:60px;
+    width: 900px;
+    top: 700px;
+    left: 120px;
+}
+.board2{
+    position: absolute;
+    height:60px;
+    width: 900px;
+    top: 770px;
+    left: 120px;
+}
+.board3{
+    position: absolute;
+    height:60px;
+    width: 900px;
+    top: 840px;
+    left: 120px;
+}
+.board4{
+    position: absolute;
+    height:60px;
+    width: 900px;
+    top: 910px;
+    left: 120px;
+}
+.board5{
+    position: absolute;
+    height:60px;
+    width: 900px;
+    top: 980px;
+    left: 120px;
+}
+.board6{
+    position: absolute;
+    height:60px;
+    width: 900px;
+    top: 1050px;
+    left: 120px;
+}
+.board7{
+    position: absolute;
+    height:60px;
+    width: 900px;
+    top: 1120px;
+    left: 120px;
+}
+.board8{
+    position: absolute;
+    height:60px;
+    width: 900px;
+    top: 1190px;
+    left: 120px;
+}
+.grey3{
+    position: absolute;
+    left: 1080px;
+    top: 600px;
+    width: 390px;
+    height: 700px;
+}
+.lottery{
+    position: absolute;
+    left: 1080px;
+    top: 600px;
+    width: 390px;
+    height: 700px;
+}
+.btn-10{
+    font-family:'Courier New', Courier, monospace;
+    position: absolute;
+    letter-spacing: 4px;
+    color: white;
+    width: 150px;
+    height: 50px;
+    position: relative;
+    left:1135px;
+    top: 1100px;
+    background-color: rgb(240, 56, 87);
+    border-radius: 6px;
+    transition: ease-in 0.3s;
+}
+
+.btn-10:hover{
+    box-shadow: inset 150px 0 0 0 #ebebea;
+    color: black;
+}
